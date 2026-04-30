@@ -1,1 +1,10 @@
 # yasutake_repo01
+
+```
+git branch -vv                
+  develop          d1776cf [origin/develop: ahead 1] push test from develop
+* feature/add-note d1776cf push test from develop
+  main             a2e44f0 [origin/main: ahead 1] NG test
+
+
+```
