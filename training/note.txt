@@ -1,3 +1,3 @@
-Line1: base
+Line1: spin-off
 Line2: base
-Line3: base
+Line3: spin-off
